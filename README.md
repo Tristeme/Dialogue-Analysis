@@ -15,7 +15,7 @@ python -m spacy download en_core_web_sm
 
 ### 2. Run the Streamlit app
 ```bash
-streamlit run renders.py
+streamlit run app.py
 ```
 
 ### 3. Optional: Upload your own .txt file
